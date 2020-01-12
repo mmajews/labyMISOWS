@@ -1,2 +1,10 @@
+Poza chmura:
 s3cmd -> 1182.5 kB/s
 nodejs api -> 8720.29 kB/s 
+
+Na EC2:
+s3cmd -> 397700 kB/s
+nodejs api -> 270260.27 kB/s
+
+Na EC2, rownolegle brak roznicy przy nodejs api
+
