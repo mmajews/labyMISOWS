@@ -1,0 +1,2 @@
+s3cmd -> 1182.5 kB/s
+nodejs api -> 8720.29 kB/s 
