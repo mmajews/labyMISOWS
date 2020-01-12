@@ -1,0 +1,8 @@
+ plgrid/libs/jpeg-turbo/1.3.0 loaded.
+ plgrid/tools/gcc/4.9.2 loaded.
+ plgrid/apps/cuda/7.5 loaded.
+ plgrid/tools/openmpi/1.10.0-gnu-4.9.2-ib-cuda loaded.
+ plgrid/libs/boost/1.59.0 loaded.
+ plgrid/libs/libpng/1.5.10 loaded.
+ plgrid/apps/povray/3.7.0 loaded.
+slurmstepd: error: *** JOB 5933645 ON n1087-amd CANCELLED AT 2020-01-12T22:52:29 ***
